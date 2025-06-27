@@ -1,0 +1,33 @@
+.container
+{
+display: flex;
+}
+.left{
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+        width:20%;
+    height:%px;
+    background-color:#516c9e;
+    padding: 15PX;
+  
+}
+img
+{
+    border-radius: 90px;
+}
+.right
+{
+    border-top-right-radius: 15px;
+     border-end-end-radius: 15px;
+    width:80%;
+    height:%px;
+    background-color:#d2dff7;
+    padding: 20px;
+
+    
+}
+ h1 {font-size:50px;font-family:Arial;color:#0d3070;}
+ .left h3 {color:#06142e;}
+ .right h3{color:#043082;}
+
+ul {list-style-type:square;}
